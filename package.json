@@ -149,7 +149,7 @@
     "@metamask/address-book-controller": "^2.0.0",
     "@metamask/approval-controller": "2.1.0",
     "@metamask/assets-controllers": "5.0.0",
-    "@metamask/base-controller": "^2.0.0",
+    "@metamask/base-controller": "^7.1.1",
     "@metamask/composable-controller": "^2.0.0",
     "@metamask/contract-metadata": "^2.1.0",
     "@metamask/controller-utils": "~3.0.0",
