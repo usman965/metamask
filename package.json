@@ -333,7 +333,7 @@
     "@babel/core": "^7.12.9",
     "@babel/runtime": "^7.12.5",
     "@cucumber/message-streams": "^4.0.1",
-    "@cucumber/messages": "^22.0.0",
+    "@cucumber/messages": "^28.1.0",
     "@ethersproject/contracts": "^5.7.0",
     "@ethersproject/providers": "^5.7.2",
     "@lavamoat/allow-scripts": "^1.0.6",
